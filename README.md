@@ -2,7 +2,7 @@
 
 Bear-Maps
 =========
-## Berkeley CS61B Project 3 (inspired by )
+## Berkeley CS61B Project 3 (inspired by Google Maps)
 
 This is a web mapping application of berkeley.
 
